@@ -75,7 +75,8 @@ class Launcher(object):
         self.log_thread.daemon = True
         self.notify_thread.daemon = True
         # ------------------------------------------------------------------------
-        # test modification for git hub
+        
+        # new test change
          
     def run(self):
         """ main function """
